@@ -16,6 +16,8 @@ body {
     grid-template-rows: repeat(3, 1fr);
     gap: 10px;
     padding: 20px;
+    height: 400px;
+    width: 400px;
     border-radius: 20px;
     background-color: #e0e0e0;
     box-shadow: 5px 5px 10px #bebebe,
@@ -24,6 +26,7 @@ body {
   
   .cell {
     background-color: #e0e0e0;
+    border: 1px solid #333333;
     border-radius: 10px;
     box-shadow: inset 5px 5px 10px #bebebe,
                 inset -5px -5px 10px #ffffff;
