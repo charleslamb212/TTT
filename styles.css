@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Goldman&family=Montserrat:wght@100&family=Roboto:ital,wght@1,100&family=Syncopate&display=swap');
-
 
 body {
     background-color: #e0e0e0;
+    font-family: 'Roboto', sans-serif;
   }
   
   section {
@@ -56,6 +55,7 @@ body {
     box-shadow: 5px 5px 10px #bebebe,
                 -5px -5px 10px #ffffff;
     cursor: pointer;
+    font-family: 'Roboto', sans-serif;
   }
   
   .reset:hover {
